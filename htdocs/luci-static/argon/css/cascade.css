@@ -752,7 +752,7 @@ footer a {
 }
 .main .main-left .nav li.slide .menu[data-title=Network]:before {
   content: "\e908";
-  color: ##fdb926;
+  color: #fdb926;
 }
 .main .main-left .nav li.slide .menu[data-title=Bandwidth_Monitor]:before {
   content: "\e90d";
