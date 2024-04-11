@@ -8,8 +8,8 @@ include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=Manba Theme
 LUCI_DEPENDS:=+curl +jsonfilter
-PKG_VERSION:=1.8.3
-PKG_RELEASE:=20230710
+PKG_VERSION:=2.4.8
+PKG_RELEASE:=20200126
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
