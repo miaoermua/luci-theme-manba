@@ -8,7 +8,7 @@ Forked from [luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
 
 ## 下载
 
-1
+[下载](https://github.com/miaoermua/luci-theme-manba/releases/tag/v1.0)
 
 ## 编译
 
